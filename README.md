@@ -18,7 +18,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 
 ## Overview
-- This is a Front-end Mentor challenge called 'Testimonials Grid Section'. It basically requires you to exercise your CSS skills particularly CSS Grid.
+- This is a Front-end Mentor challenge called 'Testimonials Grid Section'. It basically requires one to exercise  CSS skills particularly CSS Grid.
 - The project put me on an edge of getting to understand more about the CSS Grid layout.
 
 ### The challenge
@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/DonFranklie/Testimonials-Grid-Page)
+- Solution URL: [(https://github.com/DonFranklie/Testimonials-Grid-Page)]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
