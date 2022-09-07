@@ -56,7 +56,7 @@ This what I learnt:
 ```html
 <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
 ```
-```css
+```css 
  @media(min-width: 1024px)
  '''
 
@@ -71,7 +71,7 @@ I got a touch of Media Queries and onwards am going to continue practicing about
 
 ### Useful resources
 
-- [ Resource 1](https://www.youtube.com/traversymedia) - This helped me to understand more about Grid. I really liked this pattern and will use it going forward.
+- [https://www.youtube.com/watch?v=0xMQfnTU6oo&t=11s] - This helped me to understand more about Grid. I really liked this pattern and will use it going forward.
 - [ Resource 2](https://www.csstricks.com) - This is an amazing site that  helped me finally understand Grid. I'd recommend it to anyone still learning this concept.
 
 ## Author
