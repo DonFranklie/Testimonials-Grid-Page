@@ -82,6 +82,6 @@ I got a touch of Media Queries and onwards am going to continue practicing about
 
 ## Acknowledgments
 
-Much thanks to Brad Traversy of Traversy Media. He gave me the Inspiration to take on this challenge since I got know about FontEnd Mentor through him. Much thanks Brad
+Much thanks to Brad Traversy of Traversy Media. He gave me the Inspiration to take on this challenge since I got know about FrontEnd Mentor through him. Much thanks Brad
 
 It was after learning about CSS Grid form Brad That I got the energy and Knowledge to complete this challenge. He equipped me with the required Knowledge.
