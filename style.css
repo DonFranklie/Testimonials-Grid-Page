@@ -254,7 +254,7 @@
   
       #daniel-clifford{
         background:hsl(263, 55%, 52%);
-        background-image: url(/images/bg-pattern-quotation.svg);
+        background-image: url(./images/bg-pattern-quotation.svg);
         background-repeat: no-repeat;
         background-position: top 10px left 450px;
         color: white;
