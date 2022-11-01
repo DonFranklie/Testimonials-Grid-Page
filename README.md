@@ -27,15 +27,18 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
+### Screenshots
+- Desktop Design:
+![](design/desktop-design.jpg)
 
-![](screenshot-1.png)
+- Mobile Design(Smaller Screen Sizes)
+![](design/mobile-design.jpg)
 
 
 ### Links
 
 - Solution URL: [(https://github.com/DonFranklie/Testimonials-Grid-Page)]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [(https://donfranklie.github.io/Testimonials-Grid-Page/)]
 
 ## My process
 Took me some time to build this page. I had to learn CSS Grid because I had not yet learnt it.
@@ -61,9 +64,6 @@ This what I learnt:
  ```
 
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-
 ### Continued development
 
 I am going to continue doing as many projects as I can on CSS Grid so as to perfect my Grid skills.
@@ -71,8 +71,8 @@ I got a touch of Media Queries and onwards am going to continue practicing about
 
 ### Useful resources
 
-- [(https://www.youtube.com/watch?v=0xMQfnTU6oo&t=11s)] - This helped me to understand more about Grid. I really liked this pattern and will use it going forward.
-- [(https://www.csstricks.com)] - This is an amazing site that  helped me finally understand Grid. I'd recommend it to anyone still learning this concept.
+- [Traversy Media](https://www.youtube.com/watch?v=0xMQfnTU6oo&t=11s) - This helped me to understand more about Grid. I really liked this pattern and will use it going forward.
+- [CSS TRICKS](https://www.csstricks.com) - This is an amazing site that  helped me finally understand Grid. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
