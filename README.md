@@ -28,17 +28,13 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshots
-- Desktop Design:
-![](design/desktop-design.jpg)
-
-- Mobile Design(Smaller Screen Sizes)
-![](design/mobile-design.jpg)
+![](screenshot.jpg)
 
 
 ### Links
 
-- Solution URL: [(https://github.com/DonFranklie/Testimonials-Grid-Page)]
-- Live Site URL: [(https://donfranklie.github.io/Testimonials-Grid-Page/)]
+- Solution URL: [Git Repository](https://github.com/DonFranklie/Testimonials-Grid-Page)
+- Live Site URL: [Live Site URL](https://donfranklie.github.io/Testimonials-Grid-Page/)
 
 ## My process
 Took me some time to build this page. I had to learn CSS Grid because I had not yet learnt it.
@@ -62,7 +58,6 @@ This what I learnt:
 ```css 
  @media(min-width: 1024px)
  ```
-
 
 ### Continued development
 
