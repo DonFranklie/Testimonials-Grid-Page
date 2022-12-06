@@ -74,7 +74,7 @@
   
       #daniel-clifford{
         background:hsl(263, 55%, 52%);
-        background-image: url(../images/bg-pattern-quotation.svg);
+        background-image: url("../images/bg-pattern-quotation.svg");
         background-repeat: no-repeat;
         background-position: top right 10%;
         color: white;
@@ -108,8 +108,9 @@
   
       }
 
+/************* MEDIA QUERIES ***********/
 
-    @media(max-width: 375px){
+     @media(max-width: 375px){
       .main{
         grid-template-columns: 1fr;
         width: 100%;
@@ -145,7 +146,7 @@
 
     }
 
-    @media(min-width: 375px){
+    @media(min-width: 376px){
       .main{
         grid-template-columns: 1fr;
         width: 100%;
@@ -349,6 +350,7 @@
         grid-column: 4/5;
         grid-row: 1/3;
   
+      } 
       }
 
-    }
+    
